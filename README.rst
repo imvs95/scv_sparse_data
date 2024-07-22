@@ -4,7 +4,7 @@ The repository is used to generate the results of the paper: van Schilt, I. M., 
 Dimensions of data sparseness and their effect on supply chain visibility. *Computers & Industrial Engineering, 191*, 110108. doi:`10.1016/j.cie.2024.110108 <https://doi.org/10.1016/j.cie.2024.110108>`_
 It present the code on how to calculate supply chain visibility for a given supply chain network with sparse data.
 
-This repository is also part of the Ph.D. thesis of  `Isabelle M. van Schilt <https://www.tudelft.nl/staff/i.m.vanschilt/?cHash=74e749835b2a89c6c76b804683ffbbcf>`_, Delft University of Technology.
+This repository is also part of the Ph.D. thesis of  `Isabelle M. van Schilt <https://www.tudelft.nl/staff/i.m.vanschilt/?cHash=74e749835b2a89c6c76b804683ffbbcf>`_, Delft University of Technology. The version of the code used in the Ph.D. thesis is available at doi: `10.4121/d491bee7-c911-4099-a60f-075327ebea23.v1 <https://doi.org/10.4121/d491bee7-c911-4099-a60f-075327ebea23.v1>`_.
 
 Content
 =====================================================
